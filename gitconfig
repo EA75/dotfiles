@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = amouroux.emmanuelle@orange.fr
+	name = Emmanuelle Amouroux
